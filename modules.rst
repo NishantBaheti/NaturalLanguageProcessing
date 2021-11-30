@@ -2,5 +2,10 @@
 .. toctree::
    :maxdepth: 8
 
-   NLTK/NLTK
+   Concepts/nlp
+   Concepts/Corpus
+   Concepts/Tokenization
+   Concepts/Stemming
+   Concepts/Todos
+   Concepts/NLTKmethods
    SpamDetection/SpamDataAnalytics
