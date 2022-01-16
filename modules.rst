@@ -5,7 +5,7 @@
    Concepts/nlp
    Concepts/Corpus
    Concepts/Tokenization
-   Concepts/Vectorizer
+   Concepts/word_association
    Concepts/Stemming
    Concepts/NLTKmethods
    SpamDetection/SpamDataAnalytics
