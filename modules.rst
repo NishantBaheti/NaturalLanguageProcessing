@@ -7,6 +7,7 @@
    Concepts/Tokenization
    Concepts/word_association
    Concepts/word_to_vec
+   Concepts/word_to_vec_demo
    Concepts/Stemming
    Concepts/NLTKmethods
    SpamDetection/SpamDataAnalytics
