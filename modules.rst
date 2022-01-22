@@ -12,5 +12,6 @@
    Concepts/word_to_vec_demo
    Concepts/bert
    Concepts/bert_demo
+   Concepts/bert_example
    Concepts/NLTKmethods
    Concepts/SpamDetection/SpamDataAnalytics
