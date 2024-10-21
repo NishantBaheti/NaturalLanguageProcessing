@@ -15,3 +15,15 @@
    Concepts/bert_example
    Concepts/NLTKmethods
    Concepts/SpamDetection/SpamDataAnalytics
+
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Additional Docs
+
+    ML Guide Book <https://mlguidebook.com>
+    Deep Learning Guide Book <https://dl.mlguidebook.com>
+    NLP Guide Book <https://nlp.mlguidebook.com>
+    Python Guide Book <https://python.mlguidebook.com>
+    mightypy <https://mightypy.readthedocs.io/>
+    graphpkg <https://graphpkg.readthedocs.io/>
